@@ -17,6 +17,5 @@ Meu primeiro projeto, iniciado e concluído com o objetivo de conhecer e aprende
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![gmail](https://img.shields.io/badge/gmail-CB2121?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/pedro-henrique-coppola-071baa225/))
 
