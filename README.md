@@ -15,6 +15,8 @@ Meu primeiro projeto, iniciado e concluído com o objetivo de conhecer e aprende
 - CSS
 - Git e Github
 
-## 📱 Contato
+## 🔗 Links
 
-📧 pedro.coppola0207@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![gmail](https://img.shields.io/badge/gmail-CB2121?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/)
+
